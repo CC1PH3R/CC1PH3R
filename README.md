@@ -1,4 +1,4 @@
-<h2 align="left">Hello there, my name is Chris and I'm indie hacker from Kenya</h2>
+<h2 align="left">Hello there, I'm Chris, an indie hacker from Kenya</h2>
 
 ###
 
@@ -31,11 +31,6 @@
 </div>
 
 ###
-
-<picture>
-  <img src="https://github-readme-stats-peach-zeta.vercel.app/api?username=CC1PH3R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats-peach-zeta.vercel.app/api/top-langs?username=CC1PH3R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=merko&hide_border=false" height="200" alt="languages graph"  />
-</picture>
 
 ###
 
