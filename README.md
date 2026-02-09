@@ -34,8 +34,3 @@
 
 ###
 
-<a href="https://github.com/CC1PH3R/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=CC1PH3R&style=for-the-badge&color=orange">
-</a>
-
-###
